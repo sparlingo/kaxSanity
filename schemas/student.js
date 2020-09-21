@@ -1,6 +1,6 @@
 export default {
-  name: 'author',
-  title: 'Author',
+  name: 'student',
+  title: 'Student',
   type: 'document',
   fields: [
     {
@@ -24,7 +24,7 @@ export default {
     },
     {
       name: 'image',
-      title: 'Image',
+      title: 'Profile Pic',
       type: 'image',
       options: {
         hotspot: true
