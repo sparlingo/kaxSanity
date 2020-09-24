@@ -14,6 +14,11 @@ export default {
       type: 'string'
     },
     {
+      name: 'birthDate',
+      title: 'Birth Date',
+      type: 'date'
+    },
+    {
       name: 'slug',
       title: 'Slug',
       type: 'slug',

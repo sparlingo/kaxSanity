@@ -14,6 +14,12 @@ export default {
       type: 'string'
     },
     {
+      name: 'keywords',
+      title: 'Key Words',
+      type: 'array',
+      of: [{type: 'string'}]
+    },
+    {
       name: 'image',
       title: 'Banner Image',
       type: 'image',
