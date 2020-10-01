@@ -19,6 +19,11 @@ export default {
       type: 'date'
     },
     {
+      name: 'brotherOrSister?',
+      title: 'Brother or Sister?',
+      type: 'boolean'
+    },
+    {
       name: 'slug',
       title: 'Slug',
       type: 'slug',
