@@ -19,7 +19,12 @@ export default {
       type: 'date'
     },
     {
-      name: 'brotherOrSister?',
+      name: 'englishLevel',
+      title: 'English Level',
+      type: 'number'
+    },
+    {
+      name: 'brotherOrSister',
       title: 'Brother or Sister?',
       type: 'boolean'
     },
