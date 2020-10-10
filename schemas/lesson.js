@@ -20,6 +20,11 @@ export default {
       of: [{type: 'string'}]
     },
     {
+      name: 'grabber',
+      title: 'How to grab attention',
+      type: 'string'
+    },
+    {
       name: 'image',
       title: 'Banner Image',
       type: 'image',
