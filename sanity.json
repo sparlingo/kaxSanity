@@ -15,7 +15,8 @@
     "@sanity/desk-tool",
     "mapbox-input",
     "asset-source-unsplash",
-    "asset-source-cloudinary"
+    "asset-source-cloudinary",
+    "markdown"
   ],
   "env": {
     "development": {
