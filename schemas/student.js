@@ -10,7 +10,7 @@ export default {
     },
     {
       name: 'zhName',
-      title: 'Mingzi',
+      title: 'Chinese Name',
       type: 'string'
     },
     {
@@ -38,12 +38,9 @@ export default {
       }
     },
     {
-      name: 'image',
-      title: 'Profile Pic',
-      type: 'image',
-      options: {
-        hotspot: true
-      }
+      name: 'profile',
+      title: 'Student Profile',
+      type: 'blockContent'
     },
     {
       name: 'bio',
