@@ -14,7 +14,7 @@ export default {
       type: 'slug',
       options: {
         source: 'title',
-        maxLength: 96
+        maxLength: 36
       }
     },
     {

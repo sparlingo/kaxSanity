@@ -13,7 +13,6 @@
     "@sanity/default-layout",
     "@sanity/default-login",
     "@sanity/desk-tool",
-    "mapbox-input",
     "asset-source-unsplash",
     "asset-source-cloudinary",
     "markdown"

@@ -14,6 +14,16 @@ export default {
       type: 'string'
     },
     {
+      name: 'boy',
+      title: 'Boy?',
+      type: 'boolean'
+    },
+    {
+      name: 'girl',
+      title: 'Girl',
+      type: 'boolean'
+    },
+    {
       name: 'birthDate',
       title: 'Birth Date',
       type: 'date'
@@ -27,6 +37,12 @@ export default {
       name: 'brotherOrSister',
       title: 'Brother or Sister?',
       type: 'boolean'
+    },
+    {
+      name: 'group',
+      title: 'Class',
+      type: 'reference',
+      to: {type: 'group'}
     },
     {
       name: 'slug',
@@ -46,7 +62,7 @@ export default {
   preview: {
     select: {
       title: 'name',
-      media: 'image'
+      media: 'profile.image'
     }
   }
 }
