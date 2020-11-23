@@ -18,7 +18,7 @@ export default {
       }
     },
     {
-      name: 'teacher',
+      name: 'author',
       title: 'Teacher',
       type: 'reference',
       to: {type: 'author'}
@@ -35,7 +35,7 @@ export default {
   preview: {
     select: {
       title: 'title',
-      author: 'teacher.name',
+      author: 'author.name',
       media: 'classPic'
     }
   }

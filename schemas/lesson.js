@@ -20,8 +20,8 @@ export default {
       of: [{type: 'string'}]
     },
     {
-      name: 'grabber',
-      title: 'How to grab attention',
+      name: 'videoURL',
+      title: 'URL of Video',
       type: 'string'
     },
     {

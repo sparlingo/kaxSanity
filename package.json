@@ -2,7 +2,7 @@
   "name": "kax",
   "private": true,
   "version": "1.0.0",
-  "description": "A web app for running a ESL business",
+  "description": "A web app for running an ESL business",
   "main": "package.json",
   "author": "Kevin Sparling <kevinsparling@gmail.com>",
   "license": "MIT",
