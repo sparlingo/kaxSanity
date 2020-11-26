@@ -14,6 +14,11 @@ export default {
       type: 'string'
     },
     {
+      name: 'part',
+      title: 'Part x of y',
+      type: 'number'
+    },
+    {
       name: 'keywords',
       title: 'Key Words',
       type: 'array',
