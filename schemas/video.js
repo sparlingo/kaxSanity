@@ -18,6 +18,16 @@ export default {
       }
     },
     {
+      name: 'creator',
+      title: 'Creator',
+      type: 'string',
+    },
+    {
+      name: 'youtubeURL',
+      title: 'Youtube URL',
+      type: 'string'
+    },
+    {
       name: 'videoPic',
       title: 'Video Picture',
       type: 'image',
@@ -25,6 +35,11 @@ export default {
         hotspot: true
       }
     },
+    {
+      name: 'keywords',
+      title: 'Keywords',
+      type: 'string'
+    }
   ],
   preview: {
     select: {
