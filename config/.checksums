@@ -7,5 +7,9 @@
   "sanity-plugin-mapbox-input": "57ae3a403ce6a070b31ec6fa1f3c8339cafa66661eaddba1d4d5ee3cc2197ec2",
   "mapbox-input": "57ae3a403ce6a070b31ec6fa1f3c8339cafa66661eaddba1d4d5ee3cc2197ec2",
   "sanity-plugin-asset-source-cloudinary": "90a9bd123778d4a589a7875d9bbc5a9b713f39084be79987a076da2f6d1d0161",
-  "asset-source-cloudinary": "90a9bd123778d4a589a7875d9bbc5a9b713f39084be79987a076da2f6d1d0161"
+  "asset-source-cloudinary": "90a9bd123778d4a589a7875d9bbc5a9b713f39084be79987a076da2f6d1d0161",
+  "sanity-plugin-content-calendar": "77266b09d4f59715778bc5fd507aefc59e2c6269ab885d7451ad680a20bb651f",
+  "sanity-plugin-leaflet-input": "719f6bf672040fa5af3485f155f7da339033b564cc0978f1249c274ddd26a483",
+  "content-calendar": "77266b09d4f59715778bc5fd507aefc59e2c6269ab885d7451ad680a20bb651f",
+  "leaflet-input": "719f6bf672040fa5af3485f155f7da339033b564cc0978f1249c274ddd26a483"
 }

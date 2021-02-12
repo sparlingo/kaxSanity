@@ -11,6 +11,7 @@ import category from './category'
 import group from './group'
 import lesson from './lesson'
 import post from './post'
+import school from './school'
 import student from './student'
 import video from './video'
 
@@ -25,6 +26,7 @@ export default createSchema({
     group,
     lesson,
     post,
+    school,
     student,
     video
   ])
