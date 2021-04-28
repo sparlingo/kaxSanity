@@ -29,7 +29,8 @@
     "sanity-plugin-content-calendar": "^1.1.1",
     "sanity-plugin-leaflet-input": "^1.0.1",
     "sanity-plugin-mapbox-input": "^0.0.3",
-    "sanity-plugin-markdown": "^1.0.1"
+    "sanity-plugin-markdown": "^1.0.1",
+    "sanity-plugin-media-library": "^1.0.7"
   },
   "devDependencies": {}
 }

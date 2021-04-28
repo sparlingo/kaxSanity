@@ -18,7 +18,8 @@
     "markdown",
     "content-calendar",
     "leaflet-input",
-    "mapbox-input"
+    "mapbox-input",
+    "media-library"
   ],
   "env": {
     "development": {
